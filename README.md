@@ -12,4 +12,9 @@ https://git.rtek.se/rasmus/RTCheck
 
 [![Build Status](https://travis-ci.org/rasmusj-se/cloudflare-failover.svg?branch=master)](https://travis-ci.org/rasmusj-se/cloudflare-failover)
 
-Latest build is available at https://build.rtek.se/cloudflare-failover and in GitHub releases.
+Latest build (for linux x86) is available at https://build.rtek.se/cloudflare-failover and in GitHub releases.
+
+### Usage
+
+Download clouflare.conf and update with API key obtained from cloudflare.
+Setup your checks in checks/ folder, look at the examples on GitHub for information on how to configure.
